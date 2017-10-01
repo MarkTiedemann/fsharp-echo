@@ -1,5 +1,3 @@
-﻿open System
-open System.Text
 open Microsoft.AspNetCore.Hosting
 open Microsoft.AspNetCore.Builder
 
